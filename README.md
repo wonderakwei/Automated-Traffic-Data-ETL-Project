@@ -37,7 +37,7 @@ project_root/
 │   └── gcp.md
 │   └── processing_and_upload.md
 │   └── requirements.md
-│   └── terraform.md.md
+│   └── terraform.md
 │   
 ├── images/
 │   └── project_image.jpg
