@@ -1,0 +1,12 @@
+[
+    {
+        "name": "time",
+        "type": "TIMESTAMP",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "traffic",
+        "type": "FLOAT",
+        "mode": "REQUIRED"
+    }
+]
