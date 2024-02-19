@@ -1,6 +1,6 @@
-credentials_path = "../terraform/traffic-data-pipeline-414619-e2265eb0bbfa.json"
-project_id = "traffic-data-pipeline-414619"
-region = "us-central1"
-bucket_name = "london_traffic_data_bucket"
-dataset_id = "london_traffic_data"   
-table_id = "london_traffic_table"    
+credentials_path = "../terraform/credentials.json"
+project_id = 
+region =
+bucket_name = 
+dataset_id = 
+table_id =     
